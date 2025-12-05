@@ -6,19 +6,19 @@ A modern Flutter application to track COVID-19 statistics worldwide. This projec
 
 ## 📱 Features
 
-Splash Screen with rotating germ animation and app title
+- Splash Screen with rotating germ animation and app title
 
-World Stats Page showing total cases, recoveries, and deaths
+- World Stats Page showing total cases, recoveries, and deaths
 
-Countries List with search functionality
+- Countries List with search functionality
 
-Details Page for each country with all stats
+- Details Page for each country with all stats
 
-API integration for live COVID-19 data
+- API integration for live COVID-19 data
 
-Clean & responsive UI
+- Clean & responsive UI
 
-Beginner-friendly code structure
+- Beginner-friendly code structure
 
 ---
 
