@@ -25,7 +25,7 @@ A modern Flutter application to track COVID-19 statistics worldwide. This projec
 ## 📸 Screenshots
 
 <div style="display:flex; gap:15px; align-items:flex-start;">
-    <img src="images/SplashScreen.png" width="220"/>
+    <!-- <img src="images/SplashScreen.png" width="220"/> -->
     <img src="images/World_Stats.png" width="220"/>
     <img src="images/Countries_List.png" width="220"/>
     <img src="images/Deatils.png" width="220"/>
