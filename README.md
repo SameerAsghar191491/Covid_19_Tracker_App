@@ -1,10 +1,10 @@
-🦠 COVID-19 Tracker App
+# 🦠 COVID-19 Tracker App
 
 A modern Flutter application to track COVID-19 statistics worldwide. This project fetches live data from an API and displays global stats, country-wise details, and individual breakdowns. It’s designed for beginners to practice API integration, model classes, navigation, and clean UI in Flutter.
 
 ---
 
-📱 Features
+## 📱 Features
 
 Splash Screen with rotating germ animation and app title
 
@@ -22,7 +22,7 @@ Beginner-friendly code structure
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
 <div style="display:flex; gap:15px; align-items:flex-start;">
     <img src="images/SplashScreen.png" width="220"/>
@@ -33,7 +33,7 @@ Beginner-friendly code structure
 
 ---
 
-📌 Notes
+## 📌 Notes
 
 This project is created for learning and practice purposes.
 
@@ -41,7 +41,7 @@ Focuses on API calls, JSON parsing, and navigation.
 
 Code is written manually for better understanding.
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Sameer Asghar
 GitHub Profile
